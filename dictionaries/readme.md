@@ -1,6 +1,5 @@
 Questions
 
-1.  retrieving and manipulating data - nested lists etc
 2. Best practice re setting variables etc or just nesting complex calculations
 3. battery usage with visual studio code
 
