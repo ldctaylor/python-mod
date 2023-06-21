@@ -5,7 +5,7 @@ import os
 os.system("clear")
 galaxies = []
 with open("galaxies.csv") as my_file: #use with to prevent data leakage - file closes after
-    galaxies = list(csv.reader(my_file)) #create a reader object
+    galaxies = list(csv.reader(my_file)) #create a galaxies file
 
 for index in range(len(galaxies)):
     for galaxy in range(2):
